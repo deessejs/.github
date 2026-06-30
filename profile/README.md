@@ -18,14 +18,6 @@
   </p>
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@deessejs/errors"><img src="https://img.shields.io/npm/v/@deessejs/errors?style=flat-square" alt="npm @deessejs/errors" /></a>
-  <a href="https://www.npmjs.com/package/@deessejs/fp"><img src="https://img.shields.io/npm/v/@deessejs/fp?style=flat-square" alt="npm @deessejs/fp" /></a>
-  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License MIT" />
-  <img src="https://img.shields.io/badge/typescript-strict-blue?style=flat-square" alt="TypeScript strict" />
-  <img src="https://img.shields.io/badge/ESM-only-yellow?style=flat-square" alt="ESM only" />
-</p>
-
 ---
 
 ## What is DeesseJS?
